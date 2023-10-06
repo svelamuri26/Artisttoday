@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,13 +32,46 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "OverrideImplement.combined": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "/Users/saivelamuri/Desktop/untitled1/src/main/java/org/example/Main.java"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ArtistCSVViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArtistCSVViewer" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArtistCSVViewer" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +81,20 @@
       <option name="presentableId" value="Default" />
       <updated>1696586256133</updated>
     </task>
+    <task id="LOCAL-00001" summary="Artist added">
+      <option name="closed" value="true" />
+      <created>1696587215044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696587215044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Artist added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Artist added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

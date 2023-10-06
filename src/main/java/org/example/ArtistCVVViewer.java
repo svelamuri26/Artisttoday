@@ -16,7 +16,7 @@ import java.util.List;
 
     public static void displayArtistsAsCSV(List<Artist> artists) {
         System.out.println("CSV Format:");
-        System.out.println("First Name,Last Name");
+        System.out.println();
 
         for (Artist artist : artists) {
             System.out.println(artist.toCSVString());
